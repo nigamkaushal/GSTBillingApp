@@ -1,0 +1,6 @@
+com\examly\GSTBillingApp\ProductPackage\Product.class
+com\examly\GSTBillingApp\GstBillingAppApplication.class
+com\examly\GSTBillingApp\ProductPackage\productService.class
+com\examly\GSTBillingApp\ProductPackage\productController.class
+com\examly\GSTBillingApp\ProductPackage\productRepo.class
+com\examly\GSTBillingApp\BillingPackage\billingController.class
